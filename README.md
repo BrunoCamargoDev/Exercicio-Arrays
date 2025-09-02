@@ -3,7 +3,7 @@
 Este projeto é um **exercício prático em JavaScript** para treinar manipulação de arrays, objetos, inputs do usuário e DOM.  
 O usuário pode **cadastrar pessoas** com nome e idade, **listar**, **filtrar por nome** e visualizar o **total de cadastros**.
 
-[Ver o projeto funcionando]()
+[Ver o projeto funcionando](https://brunocamargodev.github.io/Exercicio-Arrays/)
 
 ---
 
